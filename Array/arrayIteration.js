@@ -1,3 +1,5 @@
+// To run this file type "node arrayIteration.js" in command line
+
 let array = ["Apple", "Banana", "Cat", "Dog",2,3,4,5,6,7];
 
 // iterate Array elements using while loop
